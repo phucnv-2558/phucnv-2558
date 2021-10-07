@@ -9,12 +9,12 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C3%BAc-v%C4%83n-8679a915b/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phuc6085)
 
-[</br><img src="https://cdn.viblo.asia/_nuxt/img/fbfe575.svg" alt="Viblo" width="325" height="64">](https://viblo.asia/u/phucsaker99)
+[</br><img src="https://cdn.viblo.asia/_nuxt/img/fbfe575.svg" alt="Viblo" width="325" height="64">](https://viblo.asia/u/phucnv-2558)
 
 ### Skills
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
-[![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucnv-2558?tab=repositories&q=&type=&language=kotlin&sort=)
+[![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucnv-2558?tab=repositories&q=&type=&language=java&sort=)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://console.firebase.google.com/)
 
 ### My group & fanpage
@@ -37,6 +37,7 @@
 [Android](https://github.com/android)
 [</br>Flutter](https://github.com/flutter)
 [</br>JetBrains](https://github.com/JetBrains)
+[</br>Tencent Cloud](https://github.com/TencentCloud)
 [</br>Firebase](https://github.com/firebase/)
 [</br>Coroutine-Kotlin](https://github.com/Kotlin/kotlinx.coroutines)
 [</br>Dart](https://github.com/dart-lang)
@@ -52,6 +53,6 @@
 ### Github Stats
 
 <p width="100%">
-<img width="55%" align="top" max-height="100%" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true" /> 
-<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+<img width="55%" align="top" max-height="100%" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucnv-2558&show_icons=true" /> 
+<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnv-2558" />
 </p>
